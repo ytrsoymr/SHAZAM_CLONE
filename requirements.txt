@@ -1,0 +1,16 @@
+pandas
+ipykernel
+langchain
+langchain-community
+dotenv
+torch
+torchaudio
+transformers
+numpy
+streamlit
+sentence-transformers
+chromadb
+scikit-learn
+langchain_huggingface
+langchain_chroma
+assemblyai
